@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rainypanda.codeberg.page.ico",
     "slug": "codeberg-page",
     "status": "up",
-    "uptime": "14.44%",
-    "uptimeDay": "14.44%",
-    "uptimeWeek": "14.44%",
-    "uptimeMonth": "14.44%",
-    "uptimeYear": "14.44%",
-    "time": 1214,
-    "timeDay": 1214,
-    "timeWeek": 1214,
-    "timeMonth": 1214,
-    "timeYear": 1214,
+    "uptime": "84.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "84.37%",
+    "uptimeMonth": "84.37%",
+    "uptimeYear": "84.37%",
+    "time": 904,
+    "timeDay": 530,
+    "timeWeek": 904,
+    "timeMonth": 904,
+    "timeYear": 904,
     "dailyMinutesDown": {
       "2022-12-31": 635
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 860,
-    "timeWeek": 860,
-    "timeMonth": 860,
-    "timeYear": 860,
+    "time": 739,
+    "timeDay": 573,
+    "timeWeek": 739,
+    "timeMonth": 739,
+    "timeYear": 739,
     "dailyMinutesDown": {}
   }
 ]
