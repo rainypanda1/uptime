@@ -1,7 +1,7 @@
 url: https://rainypanda.codeberg.page/
-status: up
-code: 200
-responseTime: 2669
-lastUpdated: 2023-01-15T20:55:46.483Z
+status: down
+code: 500
+responseTime: 21806
+lastUpdated: 2023-01-15T21:50:46.659Z
 startTime: Sat Dec 31 2022 06:43:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
