@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rainypanda.codeberg.page.ico",
     "slug": "codeberg-page",
     "status": "up",
-    "uptime": "95.11%",
-    "uptimeDay": "93.97%",
-    "uptimeWeek": "95.44%",
-    "uptimeMonth": "95.11%",
-    "uptimeYear": "95.11%",
+    "uptime": "95.18%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "95.53%",
+    "uptimeMonth": "95.18%",
+    "uptimeYear": "95.18%",
     "time": 6483,
-    "timeDay": 8594,
+    "timeDay": 7984,
     "timeWeek": 7686,
     "timeMonth": 6483,
     "timeYear": 6483,
     "dailyMinutesDown": {
-      "2023-01-23": 69,
+      "2023-01-23": 59,
       "2023-01-22": 18,
       "2023-01-20": 126,
       "2023-01-18": 75,
@@ -33,7 +33,7 @@
     "url": "https://mstdn.social",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.social.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -44,6 +44,8 @@
     "timeWeek": 776,
     "timeMonth": 808,
     "timeYear": 808,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 0
+    }
   }
 ]
